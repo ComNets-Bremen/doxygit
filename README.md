@@ -14,6 +14,9 @@ Related Links
 - [Notepad++, Windows only](https://notepad-plus-plus.org/)
 - [Markdown](https://daringfireball.net/projects/markdown/)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Pro Git book](https://git-scm.com/book/en/v2)
+- [Pro Git book (German)](https://git-scm.com/book/de/v2) (incomplete
+  translation, w.i.p.)
 
 Installation
 ------------
