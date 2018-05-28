@@ -15,6 +15,7 @@ class Teacher(Human):
 
     ## The default constructor
     # @param age    Age of the teacher
+    # @param name   The name of the teacher
     def __init__(self, age=0, name=None):
         Human.__init__(self, age, name)
 

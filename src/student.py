@@ -17,8 +17,12 @@ class Student(Human):
     ## The default constructor
     # @param age    Age of the student
     # @param topic  The main topic of the student
+    # @param name   The name of the student
+    # @param topic  Set the  topic
     def __init__(self, age=0, name="", topic=""):
         Human.__init__(self, age, name)
+
+        ## This is the topic the student is currently working on
         self.topic = topic
 
     ## Return the topic of the student

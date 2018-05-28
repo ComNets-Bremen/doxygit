@@ -10,16 +10,18 @@
 
 ## A class which represents a human
 class Human(object):
-    ## Default constructor
-    #
-    # Constructor for the class. Default age for new objects: 0
-    #
+    ## The Constructor
     # @param age    Age of the human. Default: 0
     # @param name   Name of the human. Default: None
     def __init__(self, age=0, name=None):
+
+        ## @brief The age of the human
         self.__age=age
+
+        ## @brief The name of the human
         self.__name=name
 
+    ## String representation of the class
     def __str__(self):
         return type(self).__name__ + " with the name " \
                 + str(self.__name) + " (" + str(self.__age) + " years old)"
