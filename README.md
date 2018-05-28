@@ -12,6 +12,7 @@ Related Links
 - [Graphviz download (use the .msi for Windows)](http://www.graphviz.org/download/)
 - [Generate keys for github, requires git to be installd](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 - [Notepad++, Windows only](https://notepad-plus-plus.org/)
+- [Markdown](https://daringfireball.net/projects/markdown/)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 Installation
@@ -89,10 +90,23 @@ FAQ
 - Click *Bearbeiten* / *Edit*
 - Add the path from the first step to the lower field. The different paths are
   separated by semicolons. **Do not remove any values from the existing line.**
-  Only add the line for the new app.
+  Only add the path for the new app.
 
 **Background:** The path variable exists on all major operating systems. When
 working on the command line, the interpreter checks the paths in the path
 variable for executables. In case of for example Graphviz, this is required for
 Doxygen to find the dot tool which is used for creating dependency graphs.
 
+
+### The dot tool is not found (Windows)
+
+- Ensure that the dot tool is in the path variable.
+- In case this does not work, you can also manually set the path to the dot
+  tool in the `Doxyfile` (value of `DOT_PATH`).
+- Remember to set this value for each project in which you use Doxygen
+
+### What is the name of this weird style used in this Readme file
+
+It is called [*Markdown*](https://daringfireball.net/projects/markdown/). The
+objective is to create a file which has a nice rich text format and can easily
+be converted to a more sophisticated format (HTML, pdf, doc).
