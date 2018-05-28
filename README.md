@@ -1,7 +1,7 @@
 This is an example README file for the doxygit project
 ======================================================
 
-This is an example project for students learning how to use doxygen and git / github.
+This is an example project for students learning how to use doxygen and git / github. It contains a Readme-file with basic installation instructions as well as an example Python project.
 
 Related Links
 -------------
