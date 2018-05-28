@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 
 ## @package doxygit
-# This is an example module representing a student
+# This is an example package demonstrating Doxygen
 #
 # Written for the CS tutorial
 #
 # @author Jens Dede <jd@comnets.uni-bremen.de>
 # @date 2018-05-25
-
 
 from human import Human
 

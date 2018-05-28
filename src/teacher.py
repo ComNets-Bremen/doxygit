@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 ## @package doxygit
-# This is an example module representing a teacher
+# This is an example package demonstrating Doxygen
 #
 # Written for the CS tutorial
 #

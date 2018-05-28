@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 ## @package doxygit
-# This is an example module representing a human
+# This is an example package demonstrating Doxygen
 #
 # Written for the CS tutorial
 #
@@ -9,6 +9,10 @@
 # @date 2018-05-25
 
 ## A class which represents a human
+#
+# @date 2018-05-28 Last final changes
+# @date 2018-05-26 Another test
+#
 class Human(object):
     ## The Constructor
     # @param age    Age of the human. Default: 0
