@@ -95,6 +95,7 @@ FAQ
 - Add the path from the first step to the lower field. The different paths are
   separated by semicolons. **Do not remove any values from the existing line.**
   Only add the path for the new app.
+- You need to re-open the prompt after the changes.
 
 **Background:** The path variable exists on all major operating systems. When
 working on the command line, the interpreter checks the paths in the path
