@@ -72,11 +72,12 @@ Setup
       github.
 - Create a public / private key pair: `ssh-keygen -t rsa -b 4096 -C
   "johndoe@example.com"`
+- Add the **public** key to your github account. The detailed procedure is
+  explained on
+  [github](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
 
-Further information can be found online on
+Further information on how to create a key pair can be found online on
 [github](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
-
-
 
 
 FAQ
