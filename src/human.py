@@ -6,7 +6,9 @@
 # Written for the CS tutorial
 #
 # @author Jens Dede <jd@comnets.uni-bremen.de>
-# @date 2018-05-25
+# @date 2018-05-25 Initial commit
+#
+# @license GNU General Public License v3.0
 
 ## A class which represents a human
 #
