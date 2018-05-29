@@ -17,6 +17,9 @@ Related Links
 - [Pro Git book](https://git-scm.com/book/en/v2)
 - [Pro Git book (German)](https://git-scm.com/book/de/v2) (incomplete
   translation, w.i.p.)
+- [Git Cheatsheet from git
+  tower](https://www.git-tower.com/blog/git-cheat-sheet/)
+- [Github learning resources](https://services.github.com/on-demand/resources/)
 - [Doxygen
   Documentation](https://www.stack.nl/~dimitri/doxygen/manual/docblocks.html)
 
