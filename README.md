@@ -7,7 +7,7 @@ Related Links
 -------------
 
 
-- [Doxygen download (Windows binary)](https://www.stack.nl/~dimitri/doxygen/download.html)
+- [Doxygen download](https://www.stack.nl/~dimitri/doxygen/download.html)
 - [git download](https://git-scm.com/downloads)
 - [Graphviz download (use the .msi for Windows)](http://www.graphviz.org/download/)
 - [Generate keys for github, requires git to be installd](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
@@ -17,6 +17,8 @@ Related Links
 - [Pro Git book](https://git-scm.com/book/en/v2)
 - [Pro Git book (German)](https://git-scm.com/book/de/v2) (incomplete
   translation, w.i.p.)
+- [Doxygen
+  Documentation](https://www.stack.nl/~dimitri/doxygen/manual/docblocks.html)
 
 Installation
 ------------
