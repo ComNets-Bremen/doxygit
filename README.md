@@ -77,7 +77,8 @@ Setup
       johndoe@example.com`. The mail address should be the same you entered for
       github.
 - Create a public / private key pair: `ssh-keygen -t rsa -b 4096 -C
-  "johndoe@example.com"`
+  "johndoe@example.com"`. Using the native Windows installation, you have to
+  perform the key generation inside the *git bash*.
 - Add the **public** key to your github account. The detailed procedure is
   explained on
   [github](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
@@ -121,3 +122,12 @@ Doxygen to find the dot tool which is used for creating dependency graphs.
 It is called [*Markdown*](https://daringfireball.net/projects/markdown/). The
 objective is to create a file which has a nice rich text format and can easily
 be converted to a more sophisticated format (HTML, pdf, doc).
+
+### I would like to use a GUI
+
+Check the following sites:
+
+- [git GUIs](https://git-scm.com/downloads)
+- [GitHub Desktop](https://desktop.github.com/)
+
+In the tutorial, I used [gitk](https://git-scm.com/docs/gitk)
