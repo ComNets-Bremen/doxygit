@@ -77,8 +77,8 @@ Setup
       johndoe@example.com`. The mail address should be the same you entered for
       github.
 - Create a public / private key pair: `ssh-keygen -t rsa -b 4096 -C
-  "johndoe@example.com"`. Using the native Windows installation, you have to
-  perform the key generation inside the *git bash*.
+  "johndoe@example.com"`. When using the native Windows installation, you have to
+  perform the key generation inside *git bash*.
 - Add the **public** key to your github account. The detailed procedure is
   explained on
   [github](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
